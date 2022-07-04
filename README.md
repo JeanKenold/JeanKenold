@@ -19,7 +19,15 @@
 <img align="center" alt="Jean-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="Jean-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="Jean-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="right" alt="Jean-pic" height="150" style="border-radius:50px;" src="https://twitter.com/JEANKDDORCE1/status/1543913179457126402/photo/1?width=676&height=676">
+<img align="right" alt="Jean-pic" height="150" style="border-radius:50px;" src="https://pbs.twimg.com/media/FW0Ul-hXEAQhVxG?format=png&name=small?width=676&height=676">
+  
+  ##
+ 
+<div> 
+  <a href="https://www.youtube.com/channel/UCrV9ig0tYRnv1rEyQBptAUA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/jean_dayiti" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:dorcejeankenold@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jean-kénold-dorcé-060b48182" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
 ![Snake animation](https://github.com/JeanKenold/JeanKenold/blob/output/github-contribution-grid-snake.svg)
   
