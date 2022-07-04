@@ -19,7 +19,7 @@
 <img align="center" alt="Jean-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="Jean-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="Jean-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="right" alt="Jean-pic" height="150" style="border-radius:50px;" src="https://pbs.twimg.com/media/FW0Ul-hXEAQhVxG?format=png&name=small?width=676&height=676">
+<img align="right" alt="Jean-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/564x/83/98/2a/83982a4d757378bef3322df06d845e7e.jpg?width=676&height=676">
   
   ##
  
