@@ -1,7 +1,7 @@
 ### Olá! Bem-vindo/a ao meu Github
 
-- 🔭 Ainda não trabalho na áera de tecnologia
-- 🌱 Agora, estudo HTML, CSS, JAVASCRIPT...
+- 🔭 Estudando TADS na UFPR
+- 🌱 Agora, estudo Estruturas de Dados, Banco de Dados, Linguagem de Programação Java Orientado a Objetos ...
 - 💬 Me pergunta o que quiser
 - 📫 Contatos estão na página inicial
 - 😄 Pronouns: ele/dele
